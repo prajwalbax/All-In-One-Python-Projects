@@ -22,3 +22,5 @@ if __name__ == "__main__":
 	to_country = input("TO Country: ")
 
 	c.convert(from_country, to_country, amount)
+	print("currency is converted")
+	
